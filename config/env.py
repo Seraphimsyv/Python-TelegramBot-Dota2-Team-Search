@@ -1,0 +1,3 @@
+class TelegramEnv:
+    TOKEN = "5790249716:AAFAFTZ2VI6bdFTXvHrfd0qUVx7RI5KyWEs"
+    ADMIN = 535364051
